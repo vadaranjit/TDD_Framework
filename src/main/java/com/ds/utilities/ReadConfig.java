@@ -11,7 +11,9 @@ public class ReadConfig {
 	
 	public ReadConfig()
 	{
-		String path = "/TddFramework/src/test/resources/configs/Config.properties";
+		
+		String projectPath = System.getProperty("user.dir");
+		String path = projectPath+"\\src\\test\\resources\\configs\\Config.properties";
 		try 
 		{
 			File file = new File(path);

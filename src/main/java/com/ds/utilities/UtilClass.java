@@ -3,10 +3,13 @@ package com.ds.utilities;
 import java.io.File;
 
 import java.io.IOException;
+import java.util.List;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.io.FileHandler;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.DataProvider;
@@ -30,7 +33,9 @@ public class UtilClass extends TestBase {
 	
 	public static void takeSS(String filename)
 	{
-		String path = "C:\\Users\\RANJIT\\eclipse-workspace\\DalalStreet17SeptFramework\\screenshots\\";
+		String projectPath = System.getProperty("user.dir");
+		//String path = projectPath+ "\\screenshots\\";
+		String path = "D:\\GitProjects\\TddFramework\\screenshots";
 		try 
 		{
 			TakesScreenshot ts = (TakesScreenshot)driver;
@@ -62,4 +67,23 @@ public class UtilClass extends TestBase {
 		}
 		return loginData;
 	}
+	
+	public WebElement getTableCellValue(WebElement cardTable,int rowIndex,int columnIndex) 
+	{
+//		int rowIndex = getRowCountFormTable(cardTable);
+//		int columnIndex = getColumnCountFormTable(cardTable);
+		WebElement cell = cardTable.findElement(By.xpath(".//tr[" + rowIndex + "]/td[" + columnIndex + "]"));
+		return cell;
+	}
+	
+	public int getRowCountFormTable(WebElement tableElement) {
+        List<WebElement> rows = tableElement.findElements(By.xpath(".//tr"));
+        return rows.size();
+    }
+	
+	public int getColumnCountFormTable(WebElement tableElement) {
+        // Assuming first row defines the column structure
+        List<WebElement> columns = tableElement.findElements(By.xpath(".//tr[1]/td | .//tr[1]/th"));
+        return columns.size();
+    }
 }

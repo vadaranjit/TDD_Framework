@@ -11,7 +11,7 @@ public class LoginPageTest extends TestBase {
 	@Test
 	public void verifyLoginWithCorrectCred() throws InterruptedException
 	{
-		String expected_output = "https://www.apps.dalalstreet.ai/dashboard";
+		String expected_output = "https://demoblaze.com/index.html";
 		
 		Thread.sleep(5000);
 		String actual_output = util_obj.getWebPageUrl();

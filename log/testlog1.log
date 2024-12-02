@@ -274,3 +274,297 @@
 2024-11-30 23:30:21,850 [main] INFO DalalStreet Automation Framework - Test case execution failed - verifyBuyFunctionalityWithLongTermAndMarket
 2024-11-30 23:30:22,073 [main] INFO DalalStreet Automation Framework - Take Screenshot
 2024-11-30 23:30:22,252 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 12:44:50,559 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 12:45:20,416 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 12:45:20,753 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 12:45:26,384 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 12:45:26,417 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 12:45:31,435 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2024-12-02 12:45:32,700 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 12:46:48,673 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 12:46:54,456 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 12:46:54,481 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 12:47:00,163 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 12:47:00,170 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 12:47:05,192 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2024-12-02 12:47:05,492 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 12:48:07,631 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 12:48:13,730 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 12:48:13,791 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 12:48:19,545 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 12:48:19,554 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 12:48:24,581 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2024-12-02 12:48:24,897 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 12:49:00,636 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 12:49:07,523 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 12:49:07,556 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 12:49:13,206 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 12:49:13,215 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 12:49:18,267 [main] INFO DalalStreet Automation Framework - Test case execution failed - verifyLoginWithCorrectCred
+2024-12-02 12:49:18,848 [main] INFO DalalStreet Automation Framework - Take Screenshot
+2024-12-02 12:49:19,284 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 12:55:57,253 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 12:56:03,419 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 12:56:03,452 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 12:56:08,948 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 12:56:08,953 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 12:56:13,971 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2024-12-02 12:56:14,167 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 12:57:15,000 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 12:57:20,739 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 12:57:20,762 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 12:57:26,290 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 12:57:26,295 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 12:57:31,319 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2024-12-02 12:57:31,657 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 12:58:07,612 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 12:58:09,774 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 12:58:09,775 [main] INFO DalalStreet Automation Framework - Test case execution skipped - verifyLoginWithCorrectCred
+2024-12-02 12:58:09,780 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 12:58:38,181 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 12:58:43,817 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 12:58:43,855 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 12:58:49,352 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 12:58:49,362 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 12:58:54,375 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2024-12-02 12:58:54,614 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 13:02:38,305 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 13:02:45,039 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 13:02:45,067 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 13:02:50,587 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 13:02:50,592 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 13:02:55,603 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2024-12-02 13:02:55,790 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 13:28:11,882 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 13:28:20,343 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 13:28:20,372 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 13:28:25,992 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 13:28:26,000 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 13:28:31,018 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2024-12-02 13:28:31,224 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 13:28:45,078 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 13:28:50,705 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 13:28:50,731 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 13:28:56,443 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 13:28:56,451 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 13:29:01,509 [main] INFO DalalStreet Automation Framework - Test case execution failed - verifyLoginWithCorrectCred
+2024-12-02 13:29:01,514 [main] INFO DalalStreet Automation Framework - Test case execution failed - verifyLoginWithCorrectCred
+2024-12-02 13:29:01,518 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 13:29:58,472 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 13:30:01,315 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 13:30:01,316 [main] INFO DalalStreet Automation Framework - Test case execution skipped - verifyLoginWithCorrectCred
+2024-12-02 13:30:01,322 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 13:32:38,781 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 13:32:45,156 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 13:32:45,197 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 13:32:50,900 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 13:32:50,910 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 13:32:55,931 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2024-12-02 13:32:56,189 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 14:18:58,392 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 14:18:58,521 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 14:19:39,402 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 14:19:50,405 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 14:19:50,444 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 14:19:56,104 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 14:19:56,113 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 14:20:01,130 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2024-12-02 14:20:01,479 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 14:22:13,924 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 14:22:21,547 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 14:22:21,584 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 14:22:27,251 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 14:22:27,260 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 14:22:32,275 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2024-12-02 14:22:38,081 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 14:22:38,083 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 14:22:43,781 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 14:22:43,783 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyProductAddedIntoCart
+2024-12-02 14:22:45,430 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyProductAddedIntoCart
+2024-12-02 14:22:45,849 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 14:25:07,649 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 14:25:14,096 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 14:25:14,137 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 14:25:19,836 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 14:25:19,845 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 14:25:24,868 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2024-12-02 14:25:30,484 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 14:25:30,488 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 14:25:36,155 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 14:25:36,157 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyProductAddedIntoCart
+2024-12-02 14:25:37,715 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyProductAddedIntoCart
+2024-12-02 14:25:38,020 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 14:27:34,702 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 14:27:40,244 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 14:27:40,276 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 14:27:45,919 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 14:27:45,928 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 14:27:50,942 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2024-12-02 14:27:55,419 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 14:27:55,422 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 14:28:01,091 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 14:28:01,093 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyProductAddedIntoCart
+2024-12-02 14:28:02,658 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyProductAddedIntoCart
+2024-12-02 14:28:02,956 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 15:21:30,411 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 15:25:26,265 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 15:25:26,307 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 15:25:37,717 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 15:25:44,196 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 15:25:44,224 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 15:25:49,785 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 15:25:49,790 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 15:25:54,810 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2024-12-02 15:26:01,505 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 15:26:01,506 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 15:26:06,944 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 15:26:06,947 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyProductAddedIntoCart
+2024-12-02 15:26:28,562 [main] INFO DalalStreet Automation Framework - Test case execution failed - verifyProductAddedIntoCart
+2024-12-02 15:26:28,797 [main] INFO DalalStreet Automation Framework - Take Screenshot
+2024-12-02 15:26:29,031 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 15:32:32,161 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 15:32:40,283 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 15:32:40,315 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 15:32:46,852 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 15:32:46,858 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 15:32:51,870 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2024-12-02 15:32:58,332 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 15:32:58,332 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 15:33:03,834 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 15:33:03,836 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyProductAddedIntoCart
+2024-12-02 15:33:25,499 [main] INFO DalalStreet Automation Framework - Test case execution failed - verifyProductAddedIntoCart
+2024-12-02 15:33:25,758 [main] INFO DalalStreet Automation Framework - Take Screenshot
+2024-12-02 15:33:26,004 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 15:34:52,662 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 15:34:58,758 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 15:34:58,788 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 15:35:04,285 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 15:35:04,290 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 15:35:09,307 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2024-12-02 15:35:13,357 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 15:35:13,358 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 15:35:18,875 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 15:35:18,876 [main] INFO DalalStreet Automation Framework - Test case execution started - printAllCartItems
+2024-12-02 15:35:39,857 [main] INFO DalalStreet Automation Framework - Test case execution failed - printAllCartItems
+2024-12-02 15:35:40,090 [main] INFO DalalStreet Automation Framework - Take Screenshot
+2024-12-02 15:35:44,511 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 15:35:44,511 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 15:35:50,002 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 15:35:50,003 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyProductAddedIntoCart
+2024-12-02 15:35:51,525 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyProductAddedIntoCart
+2024-12-02 15:35:51,858 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 15:39:09,203 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 15:39:15,551 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 15:39:15,578 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 15:39:21,053 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 15:39:21,058 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 15:39:26,068 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2024-12-02 15:39:30,845 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 15:39:30,846 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 15:39:36,345 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 15:39:36,346 [main] INFO DalalStreet Automation Framework - Test case execution started - printAllCartItems
+2024-12-02 15:39:57,219 [main] INFO DalalStreet Automation Framework - Test case execution failed - printAllCartItems
+2024-12-02 15:39:57,436 [main] INFO DalalStreet Automation Framework - Take Screenshot
+2024-12-02 15:40:03,791 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 15:40:03,792 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 15:40:09,338 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 15:40:09,339 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyProductAddedIntoCart
+2024-12-02 15:40:10,994 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyProductAddedIntoCart
+2024-12-02 15:40:11,304 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 15:42:45,137 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 15:42:51,394 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 15:42:51,424 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 15:42:56,899 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 15:42:56,905 [main] INFO DalalStreet Automation Framework - Test case execution started - printAllCartItems
+2024-12-02 15:42:59,353 [main] INFO DalalStreet Automation Framework - Test case execution completed - printAllCartItems
+2024-12-02 15:43:06,090 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 15:43:06,091 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 15:43:12,066 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 15:43:12,067 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyProductAddedIntoCart
+2024-12-02 15:43:13,728 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyProductAddedIntoCart
+2024-12-02 15:43:13,930 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 15:44:51,759 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 15:45:01,093 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 15:45:01,119 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 15:45:06,529 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 15:45:06,534 [main] INFO DalalStreet Automation Framework - Test case execution started - printAllCartItems
+2024-12-02 15:45:08,774 [main] INFO DalalStreet Automation Framework - Test case execution completed - printAllCartItems
+2024-12-02 15:45:09,089 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 15:47:25,340 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 15:47:31,085 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 15:47:31,123 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 15:47:36,622 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 15:47:36,627 [main] INFO DalalStreet Automation Framework - Test case execution started - printAllCartItems
+2024-12-02 15:47:38,715 [main] INFO DalalStreet Automation Framework - Test case execution completed - printAllCartItems
+2024-12-02 15:47:39,033 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 15:52:40,478 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 15:52:40,520 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 15:52:47,807 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 15:52:53,781 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 15:52:53,799 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 15:52:59,320 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 15:52:59,327 [main] INFO DalalStreet Automation Framework - Test case execution started - printAllCartItems
+2024-12-02 15:53:22,248 [main] INFO DalalStreet Automation Framework - Test case execution failed - printAllCartItems
+2024-12-02 15:53:22,398 [main] INFO DalalStreet Automation Framework - Take Screenshot
+2024-12-02 15:53:22,645 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 15:54:56,434 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 15:55:01,803 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 15:55:01,834 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 15:55:07,317 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 15:55:07,327 [main] INFO DalalStreet Automation Framework - Test case execution started - printAllCartItems
+2024-12-02 15:55:30,179 [main] INFO DalalStreet Automation Framework - Test case execution failed - printAllCartItems
+2024-12-02 15:55:30,353 [main] INFO DalalStreet Automation Framework - Take Screenshot
+2024-12-02 15:55:30,605 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 15:56:10,373 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 15:56:15,657 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 15:56:15,685 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 15:56:21,213 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 15:56:21,220 [main] INFO DalalStreet Automation Framework - Test case execution started - printAllCartItems
+2024-12-02 15:56:44,337 [main] INFO DalalStreet Automation Framework - Test case execution failed - printAllCartItems
+2024-12-02 15:56:44,489 [main] INFO DalalStreet Automation Framework - Take Screenshot
+2024-12-02 15:56:44,688 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 16:03:21,662 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 16:03:26,378 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 16:03:26,405 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 16:03:31,849 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 16:03:31,854 [main] INFO DalalStreet Automation Framework - Test case execution started - printAllCartItems
+2024-12-02 16:03:34,865 [main] INFO DalalStreet Automation Framework - Test case execution completed - printAllCartItems
+2024-12-02 16:03:35,115 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 16:14:26,829 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 16:14:26,839 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 16:15:01,695 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 16:15:01,704 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 16:15:44,578 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 16:15:49,561 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 16:15:49,593 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 16:15:55,055 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 16:15:55,061 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 16:16:00,082 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2024-12-02 16:16:00,341 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 16:16:12,666 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 16:16:17,849 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 16:16:17,887 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 16:16:23,381 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 16:16:23,387 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 16:16:28,410 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2024-12-02 16:16:33,244 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 16:16:33,245 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 16:16:38,786 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 16:16:38,787 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyProductAddedIntoCart
+2024-12-02 16:16:43,888 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyProductAddedIntoCart
+2024-12-02 16:16:44,196 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 16:17:37,665 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 16:17:37,705 [main] INFO DalalStreet Automation Framework - Framework execution stopped
+2024-12-02 16:18:01,324 [main] INFO DalalStreet Automation Framework - Framework Execution started
+2024-12-02 16:18:06,558 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 16:18:06,593 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 16:18:12,109 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 16:18:12,117 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyLoginWithCorrectCred
+2024-12-02 16:18:17,139 [main] INFO DalalStreet Automation Framework - Test case execution completed - verifyLoginWithCorrectCred
+2024-12-02 16:18:21,244 [main] INFO DalalStreet Automation Framework - Browser launches, url, maximize
+2024-12-02 16:18:21,245 [main] INFO DalalStreet Automation Framework - Object Creation
+2024-12-02 16:18:26,695 [main] INFO DalalStreet Automation Framework - Login the application
+2024-12-02 16:18:26,697 [main] INFO DalalStreet Automation Framework - Test case execution started - verifyProductAddedIntoCart
+2024-12-02 16:18:31,723 [main] INFO DalalStreet Automation Framework - Test case execution failed - verifyProductAddedIntoCart
+2024-12-02 16:18:31,982 [main] INFO DalalStreet Automation Framework - Take Screenshot
+2024-12-02 16:18:32,233 [main] INFO DalalStreet Automation Framework - Framework execution stopped

@@ -8,43 +8,15 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.ds.testLayer.LogoutFunctionality">
-        <methods>
-          <include name="verifyLogoutFunctionality"/>
-          <include name="end"/>
-          <include name="start"/>
-          <include name="setUp"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.ds.testLayer.LogoutFunctionality -->
-      <class name="com.ds.testLayer.LoginPageTest">
-        <methods>
-          <include name="end"/>
-          <include name="start"/>
-          <include name="setUp"/>
-          <include name="verifyLoginWithCorrectCred"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.ds.testLayer.LoginPageTest -->
-      <class name="com.ds.testLayer.BuyFunctionality">
-        <methods>
-          <include name="verifyBuyFunctionalityWithIntradayAndMarket"/>
-          <include name="start"/>
-          <include name="end"/>
-          <include name="setUp"/>
-          <include name="verifyBuyFunctionalityWithLongTermAndMarket"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.ds.testLayer.BuyFunctionality -->
-      <class name="com.ds.testLayer.TranactionTest">
+      <class name="com.ds.testLayer.AddToCartTest">
         <methods>
           <include name="start"/>
           <include name="end"/>
           <include name="setUp"/>
-          <include name="getDataFromTransactionPage"/>
+          <include name="verifyProductAddedIntoCart"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- com.ds.testLayer.TranactionTest -->
+      </class> <!-- com.ds.testLayer.AddToCartTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
