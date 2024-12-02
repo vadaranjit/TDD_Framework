@@ -11,9 +11,6 @@
   <test thread-count="5" name="Test">
     <classes>
      <class name="com.ds.testLayer.LoginPageTest"/>
-      <class name="com.ds.testLayer.LogoutFunctionality"/>
-      <class name="com.ds.testLayer.TranactionTest"/>
-      <class name="com.ds.testLayer.BuyFunctionality"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

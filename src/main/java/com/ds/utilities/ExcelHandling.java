@@ -14,7 +14,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class ExcelHandling {
 
-	String path = "C:\\Users\\RANJIT\\eclipse-workspace\\DalalStreet17SeptFramework\\src\\test\\resources\\testData\\TestData.xlsx";
+	String path = "/TddFramework/src/test/resources/testData/TestData.xlsx";
 	File file;
 	FileInputStream fis;
 	XSSFWorkbook wb;
