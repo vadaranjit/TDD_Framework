@@ -14,7 +14,8 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class ExcelHandling {
 
-	String path = "/TddFramework/src/test/resources/testData/TestData.xlsx";
+	String projectPath = System.getProperty("user.dir");
+	String path = projectPath+"/src/test/resources/testData/TestData.xlsx";
 	File file;
 	FileInputStream fis;
 	XSSFWorkbook wb;

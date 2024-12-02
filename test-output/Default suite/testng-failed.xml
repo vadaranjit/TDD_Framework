@@ -3,15 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="demo.TestCase">
+      <class name="com.ds.testLayer.AddToCartTest">
         <methods>
           <include name="start"/>
           <include name="end"/>
           <include name="setUp"/>
-          <include name="verifyLoginWithCorrectCred"/>
+          <include name="verifyProductAddedIntoCart"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- demo.TestCase -->
+      </class> <!-- com.ds.testLayer.AddToCartTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

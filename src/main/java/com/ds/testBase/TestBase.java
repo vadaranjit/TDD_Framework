@@ -4,6 +4,7 @@ import java.time.Duration;
 
 
 
+
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
@@ -17,7 +18,10 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
+import com.ds.pageLayer.CartPage;
+import com.ds.pageLayer.HomePage;
 import com.ds.pageLayer.LoginPage;
+import com.ds.pageLayer.ProductPage;
 import com.ds.utilities.ExcelHandling;
 import com.ds.utilities.ReadConfig;
 import com.ds.utilities.UtilClass;
@@ -31,6 +35,9 @@ public class TestBase {
 	public ExcelHandling excel_data;
 	public LoginPage login_obj;
 	public UtilClass util_obj;
+	public HomePage homePage_obj;
+	public ProductPage productPage_obj;
+	public CartPage cartPage_obj;
 	
 	@BeforeTest
 	public void start()
@@ -72,7 +79,7 @@ public class TestBase {
 		
 		ReadConfig read_config = new ReadConfig();
 		
-		driver.get("https://demoblaze.com/index.html");
+		driver.get(read_config.getApplicationUrl());
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
@@ -82,7 +89,12 @@ public class TestBase {
 		login_obj = new LoginPage(driver);
 		util_obj = new UtilClass();
 		excel_data = new ExcelHandling();
+		homePage_obj = new HomePage(driver);
+		productPage_obj = new ProductPage(driver);
+		cartPage_obj = new CartPage(driver);
+		
 		logger.info("Object Creation");
+		
 		
 		//---------- login steps ------------------------
 //		login_obj.enterEmailAddress(excel_data.readData("Login", 2, 1));
@@ -90,8 +102,8 @@ public class TestBase {
 //		login_obj.clickOnLoginButton();
 //		Thread.sleep(5000); 
 		login_obj.clickOnLoginButton();
-		login_obj.enterEmailAddress("demorv");
-		login_obj.enterPassword("demo@123");
+		login_obj.enterEmailAddress(read_config.getEmailAddress());
+		login_obj.enterPassword(read_config.getPassword());
 		login_obj.clickOnLoginButton2();
 		
 		Thread.sleep(5000); 
