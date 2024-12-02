@@ -95,8 +95,7 @@ public class TestBase {
 		login_obj.clickOnLoginButton2();
 		
 		Thread.sleep(5000); 
-		logger.info("Login the application");
-		
+		logger.info("Login the application");		
 		
 	}
 	
